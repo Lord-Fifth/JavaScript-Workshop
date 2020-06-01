@@ -2,7 +2,7 @@
 
 ***
 
-## Neoito JS Workshop
+## [Neoito JS Workshop](https://github.com/neoito-hub/intro-to-web-development-workshop)
 
 0. [Introduction](https://github.com/Lord-Fifth/JavaScript-Workshop/tree/master/00-Intro)
 1. [To-Do-App](https://github.com/Lord-Fifth/JavaScript-Workshop/tree/master/01-To-Do-App)
