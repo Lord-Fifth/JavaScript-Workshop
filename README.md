@@ -12,3 +12,4 @@
 ## JavaScript from scratch
 
 1. [Server Basics](https://github.com/Lord-Fifth/JavaScript-Workshop/tree/master/Server)
+2. [Express Server](https://github.com/Lord-Fifth/JavaScript-Workshop/tree/master/Server/Express)
